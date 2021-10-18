@@ -1,0 +1,20 @@
+{
+    "roles": [
+        {
+            "name": "InputA",
+            "service": 343122531
+        },
+        {
+            "name": "InputB",
+            "service": 343122531
+        },
+        {
+            "name": "InputSwA",
+            "service": 343122531
+        },
+        {
+            "name": "InputSwB",
+            "service": 343122531
+        }
+    ]
+}
